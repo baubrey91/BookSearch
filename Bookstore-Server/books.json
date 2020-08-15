@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "9708c038-f7b9-11e6-bc64-92361f002671",
+      "title": "Harry Potter and the Cursed Child, Parts 1 & 2",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": "36e08952-f7be-11e6-bc64-92361f002671",
+      "title": "Fantastic Beasts",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": "36e08e5c-f7be-11e6-bc64-92361f002671",
+      "title": "The Tales of Beedle the Bard, Standard Edition (Harry Potter)",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": "62abb082-f7ca-11e6-bc64-92361f002671",
+      "title": "Quidditch Through the Ages",
+      "author": "Kennilworthy Whisp"
+    },
+    {
+      "id": "62abaf10-f7ca-11e6-bc64-92361f002671",
+      "title": "The Beauty and the Beast",
+      "author": "Gabrielle-Suzanna Barbot de Villenueve"
+    },
+    {
+      "id": "62abadb2-f7ca-11e6-bc64-92361f002671",
+      "title": "The Underground Railroad",
+      "author": "Colson Whitehead"
+    },
+    {
+      "id": "62abac4a-f7ca-11e6-bc64-92361f002671",
+      "title": "Hillbilly Elegy: A Memoir of a Family and Culture in Crisis",
+      "author": "J. D. Vance"
+    },
+    {
+      "id": "62abaae2-f7ca-11e6-bc64-92361f002671",
+      "title": "End of Watch",
+      "author": "Stephen King"
+    },
+    {
+      "id": "62aba90c-f7ca-11e6-bc64-92361f002671",
+      "title": "Mr. Mercedes",
+      "author": "Stephen King"
+    },
+    {
+      "id": "62aba272-f7ca-11e6-bc64-92361f002671",
+      "title": "Truly Madly Guilty",
+      "author": "Liane Moriarty"
+    },
+    {
+      "id": "62aba07e-f7ca-11e6-bc64-92361f002671",
+      "title": "The Last Anniversary",
+      "author": "Liane Moriarty"
+    },
+    {
+      "id": "62ab9e3a-f7ca-11e6-bc64-92361f002671",
+      "title": "What Alice Forgot",
+      "author": "Liane Moriarty"
+    }
+  ]
+}
